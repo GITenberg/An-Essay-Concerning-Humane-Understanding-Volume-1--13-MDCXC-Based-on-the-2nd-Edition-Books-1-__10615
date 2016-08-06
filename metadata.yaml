@@ -1,0 +1,28 @@
+_repo: An-Essay-Concerning-Humane-Understanding-Volume-1--13-MDCXC-Based-on-the-2nd-Edition-Books-1-__10615
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Locke, John
+    alias: Lock, John
+    birthdate: 1632
+    deathdate: 1704
+    gutenberg_agent_id: '2447'
+    url: http://www.gutenberg.org/2009/agents/2447
+    wikipedia: http://en.wikipedia.org/wiki/John_Locke
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Knowledge, Theory of -- Early works to 1800'
+- GITenberg
+title: "An Essay Concerning Humane Understanding, Volume 1\r\nMDCXC, Based on the\
+  \ 2nd Edition, Books 1 and 2"
+url: http://www.gutenberg.org/ebooks/10615
